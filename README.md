@@ -1,7 +1,7 @@
-#This is the localization file for Slay the Spire 2 Ye-Shunguang Mod
+# This is the localization file for Slay the Spire 2 Ye-Shunguang Mod
 If you want to add a localized language for the mod, you can download the file and translate into the language you want.
 
-#Translation Standards
+# Translation Standards
 1.The card names are all from the original text in Zero Zone.Please refer to the original game text when translating.
 2.Please keep the original file name and title.
 Such as:
@@ -15,4 +15,4 @@ Such as:
 
     
 **Submission Method**
-You can send an email with the translation file to $\color{blue}{$1169969239@qq.com}.
+You can send an email with the translation file to $1169969239@qq.com.
