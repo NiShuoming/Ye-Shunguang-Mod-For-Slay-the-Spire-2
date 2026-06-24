@@ -6,7 +6,7 @@ If you want to add a localized language for the mod, you can download the file a
 2.Please keep the original file name and title.
 
 Such as:  
-    - *localization\zhs\cards.json* :  
+- *localization\zhs\cards.json* :  
             --- "YESHUNGUANG-A_THOUSAND_FIRST_MEETINGS.title": "千万次初见",  
             --- "YESHUNGUANG-A_THOUSAND_FIRST_MEETINGS.description": "击破[gold]格挡[/gold]时，打出[gold]抽牌堆[/gold]中的一张[gold]伙伴[/gold]牌。",  
             
