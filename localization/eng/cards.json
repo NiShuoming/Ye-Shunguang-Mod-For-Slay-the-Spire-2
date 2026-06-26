@@ -2,11 +2,11 @@
   "YESHUNGUANG-A_THOUSAND_FIRST_MEETINGS.title": "A Thousand First Meetings",
   "YESHUNGUANG-A_THOUSAND_FIRST_MEETINGS.description": "Whenever you break an enemy's [gold]Block[/gold], play a [gold]Partner[/gold] card from your [gold]Draw Pile[/gold].",
   "YESHUNGUANG-A_BOUQUET_FOR_MYSELF.title": "A Bouquet For Myself",
-  "YESHUNGUANG-A_BOUQUET_FOR_MYSELF.description": "Give [red]enemy[/red] {EnemyBlock:diff()} [gold]Block[/gold]、{PlatingEnemy:diff()} [gold]Plating[/gold]。\nGain {PlatingPower:diff()} [gold]Plating[/gold].",
+  "YESHUNGUANG-A_BOUQUET_FOR_MYSELF.description": "Apply {EnemyBlock:diff()} [gold]Block[/gold] and {PlatingEnemy:diff()} [gold]Plating[/gold] to the [red]enemy[/red].\nGain {PlatingPower:diff()} [gold]Plating[/gold].",
   "YESHUNGUANG-AMNESIA.title": "Amnesia",
   "YESHUNGUANG-AMNESIA.description": "[gold]Exhaust[/gold] 1 card.\nGain {QingmingSwordForce:diff()} [gold]Qingming Sword Force[/gold].\nDraw {Cards:diff()} card.",
   "YESHUNGUANG-ASSAULT.title": "Assault",
-  "YESHUNGUANG-ASSAULT.description": "Deal {Damage:diff()} damage.\nGain {EtherVeil:diff} [gold]Ether Veil[/gold]。\nIf break [gold]Block[/gold]，Gain {Energy:energyIcons()}, draw {Cards:diff()} cards.",
+  "YESHUNGUANG-ASSAULT.description": "Deal {Damage:diff()} damage.\nGain {EtherVeil:diff} [gold]Ether Veil[/gold]。\nIf attack breaks [gold]Block[/gold]，Gain {Energy:energyIcons()}, draw {Cards:diff()} cards.",
   "YESHUNGUANG-AGENT.title": "Agent",
   "YESHUNGUANG-AGENT.description": "Reduce the [gold]Debuff[/gold] of all players by {Count:diff()} stacks.",
 
@@ -15,27 +15,27 @@
 
 
   "YESHUNGUANG-BEARER.title": "Bearer",
-  "YESHUNGUANG-BEARER.description": "Exhaust status and 0{energyPrefix:energyIcons(1)} cards.\nFor every card Exhausted, gain {QingmingSwordForce:diff()} [gold]Qingming Sword Force[/gold], draw {Cards:diff()} cards.",
+  "YESHUNGUANG-BEARER.description": "Exhaust status and 0{energyPrefix:energyIcons(1)} cards.\nFor every card Exhausted, gain {QingmingSwordForce:diff()} [gold]Qingming Sword Force[/gold], draw {Cards:diff()} card.",
 
   "YESHUNGUANG-BANYUE.title": "Banyue",
   "YESHUNGUANG-BANYUE.description": "[gold]Partner[/gold].[gold]Derive[/gold].\n[blue]1：[/blue]Deal {Damage:diff()} damage, gain {Block:diff()} [gold]Block[/gold].\n[blue]2：[/blue]Deal {Damage2:diff()} damage twice.\n[blue]3：[/blue]Deal {Damage3:diff()} damage to ALL enemies, apply 2 [gold]Vulnerable[/gold]。",
   "YESHUNGUANG-BREAK_THROUGH.title": "Break Through",
   "YESHUNGUANG-BREAK_THROUGH.description": "Whenever you break an enemy's [gold]Block[/gold], draw {Cards:diff()} cards.",
   "YESHUNGUANG-BELLE.title": "Belle",
-  "YESHUNGUANG-BELLE.description": "[gold]Partner[/gold].\nExhaust 1 [gold]Qingming Sword Force[/gold].\nChoose {Cards:diff()} card from your [gold]Exhaust Pile[/gold] into your [gold]Hand[/gold].",
+  "YESHUNGUANG-BELLE.description": "[gold]Partner[/gold].\nConsume 1 [gold]Qingming Sword Force[/gold].\nChoose {Cards:diff()} card from your [gold]Exhaust Pile[/gold] into your [gold]Hand[/gold].",
   "YESHUNGUANG-BELLE.selectionScreenPrompt": "Choose {Cards:diff()} card into your [gold]Hand[/gold].",
 
 
   "YESHUNGUANG-CLEAVING_HEAVENS.title": "Cleaving Heavens",
-  "YESHUNGUANG-CLEAVING_HEAVENS.description": "Deal {CalculatedDamage:diff()} damage to a random enemy X times.\nFor every[gold]Qingming Sword Force[/gold], damage -1.",
+  "YESHUNGUANG-CLEAVING_HEAVENS.description": "Deal {CalculatedDamage:diff()} damage to a random enemy X times.\nFor every[gold] Qingming Sword Force[/gold], damage -1.",
   "YESHUNGUANG-CLEAN_EXIT.title": "Clean Exit",
-  "YESHUNGUANG-CLEAN_EXIT.description": "[gold]Memory[/gold]。\nGain {Block:diff()} [gold]Block[/gold].\nApply {FrailPower:diff()} [gold]Frail[/gold].",
+  "YESHUNGUANG-CLEAN_EXIT.description": "[gold]Memory[/gold].\nGain {Block:diff()} [gold]Block[/gold].\nApply {FrailPower:diff()} [gold]Frail[/gold].",
   "YESHUNGUANG-CHASING_STORMS.title": "Chasing Storms",
   "YESHUNGUANG-CHASING_STORMS.description": "Gain {QingmingSwordForce:diff()} [gold]Qingming Sword Force[/gold].\nGain {EnlightenedMind:diff()} [pink]Enlightened Mind[/pink].\nDeal {Damage:diff()} damage to ALL enemies.",
   "YESHUNGUANG-CLOUDDRIFT_ILLUMINATION.title": "Clouddrift illumination",
   "YESHUNGUANG-CLOUDDRIFT_ILLUMINATION.description": "Add 1 [gold]Partner[/gold] card into your [gold]Hand[/gold]. It's free to play this turn.",
   "YESHUNGUANG-CEASE_HOSTILITY.title": "Cease Hostility",
-  "YESHUNGUANG-CEASE_HOSTILITY.description": "Deal {Damage:diff()} damage.\nGive [red]Enemy[/red] {EnemyBlock:diff()} [gold]Block[/gold].",
+  "YESHUNGUANG-CEASE_HOSTILITY.description": "Deal {Damage:diff()} damage.\nApply {EnemyBlock:diff()} [gold]Block[/gold] to [red]Enemy[/red].",
   "YESHUNGUANG-CLOUDSTREAM_SWORD_WILL.title": "Cloudstream Sword Will",
   "YESHUNGUANG-CLOUDSTREAM_SWORD_WILL.description": "Deal {Damage:diff()} damage X times.",
   "YESHUNGUANG-CULUMINATION.title": "Culumination",
@@ -71,7 +71,7 @@
   "YESHUNGUANG-HALO_OF_FLOWING_LIGHT.description": "Whenever you have [gold]Enlightened Mind[/gold], gain {VigorPower:diff()} [gold]Vigor[/gold] every turn.",
 
   "YESHUNGUANG-HONED_EDGE.title": "Honed Edge",
-  "YESHUNGUANG-HONED_EDGE.description": "Deal {Damage:diff()} damage.\nIf enemy have [gold]Block[/gold], attack again until the [gold]Block[/gold] is broken.\nFor every attack, apply 1 [gold]Frail[/gold]。",
+  "YESHUNGUANG-HONED_EDGE.description": "Deal {Damage:diff()} damage.\nIf the enemy has [gold]Block[/gold], attack again until the [gold]Block[/gold] is broken.\nFor every attack, apply 1 [gold]Frail[/gold]。",
 
   "YESHUNGUANG-IF_I_COULD_BECOME_LIGHT.title": "If I Could Become Light",
   "YESHUNGUANG-IF_I_COULD_BECOME_LIGHT.description": "Draw {Cards:diff()} cards.\nDraw 1 additional card by consuming 1 [gold]Qingming Sword Force[/gold].",
@@ -153,7 +153,7 @@
   "YESHUNGUANG-SPROUT.title": "Sprout",
   "YESHUNGUANG-SPROUT.description": "[gold]Partner[/gold].\nDeal {Damage:diff()} damage.\nAdd {Cards:diff()} [gold]{IfUpgraded:show:Flying Sword+|Flying Sword}[/gold] into your [gold]Hand[/gold].",
   "YESHUNGUANG-SWORD_SHEATHE.title": "Sword Sheathe",
-  "YESHUNGUANG-SWORD_SHEATHE.description": "Apply {EnemyBlock:diff()} [gold]Block[/gold] for [red]enemy[/red].\nDraw {Cards:diff()} cards.",
+  "YESHUNGUANG-SWORD_SHEATHE.description": "Apply {EnemyBlock:diff()} [gold]Block[/gold] to [red]enemy[/red].\nDraw {Cards:diff()} cards.",
   "YESHUNGUANG-SWORD_WIND.title": "Sword Wind",
   "YESHUNGUANG-SWORD_WIND.description": "Whenever you play a card with [gold]Sunderlight[/gold], deal {SwordWindPower:diff()} damage to ALL enemies and gain {SwordWindPower:diff()} [gold]Block[/gold].",
   "YESHUNGUANG-SPELLCRAFT.title": "Spellcraft",
@@ -188,10 +188,10 @@
   "YESHUNGUANG-TOWARD_A_BRIGHT_AND_SUNNY_TOMORROW.description": "Remove [red]enemy's[/red] [gold]Frail[/gold].\nAdd an equal number of [gold]Flying Sword[/gold] into your [gold]Hand[/gold].",
 
   "YESHUNGUANG-UNIFICATION.title": "Unification",
-  "YESHUNGUANG-UNIFICATION.description": "[gold]Memory[/gold].\nDeal {Damage:diff()} damage.\nEnemy receives [blue]35%[/blue] more damage and double debuffs from [gold]Partner[/gold] cards in {Turn:diff()} turns.",
+  "YESHUNGUANG-UNIFICATION.description": "[gold]Memory[/gold].\nDeal {Damage:diff()} damage.\nThe enemy receives [blue]35%[/blue] more damage and double debuffs from [gold]Partner[/gold] cards in {Turn:diff()} turns.",
 
   "YESHUNGUANG-VOID_HUNTER_QINGMING_ARBITER.title": "Void Hunter·Qingming Arbiter",
-  "YESHUNGUANG-VOID_HUNTER_QINGMING_ARBITER.description": "The effects of your cost [blue]X[/blue] cards are increased by [blue]{Count:diff()}[/blue].\nAt the start of your turn, apply {EnemyBlock:diff()} [gold]Block[/gold] for ALL [red]enemies[/red].",
+  "YESHUNGUANG-VOID_HUNTER_QINGMING_ARBITER.description": "The effects of your cost [blue]X[/blue] cards are increased by [blue]{Count:diff()}[/blue].\nAt the start of your turn, apply {EnemyBlock:diff()} [gold]Block[/gold] to ALL [red]enemies[/red].",
   "YESHUNGUANG-VERDICT.title": "Verdict",
   "YESHUNGUANG-VERDICT.description": "Gain {EtherVeil:diff()} [gold]EtherVeil[/gold] and {Force:diff()} [gold]Qingming Sword Force[/gold].\nIf [gold]Qingming Sword Force[/gold] is full, gain {Mind:diff()} [pink]Enlightened[/pink].",
 
