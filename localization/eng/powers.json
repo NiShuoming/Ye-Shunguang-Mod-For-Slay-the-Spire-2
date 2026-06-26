@@ -47,8 +47,8 @@
   "QINGMING_SWORD_FORCE.smartDescription": "When you gain [gold]Enlightened Mind[/gold], this power turns into Energy.",
 
   "SWORD_RIDING.title": "Sword Riding",
-  "SWORD_RIDING.description": "Take flight, take [gold]35%[/gold] less damage.",
-  "SWORD_RIDING.smartDescription": "Take flight, take [gold]{DamageDecrease}%[/gold] less damage.",
+  "SWORD_RIDING.description": "Take flight and take [gold]35%[/gold] less damage.",
+  "SWORD_RIDING.smartDescription": "Take flight and take [gold]{DamageDecrease}%[/gold] less damage.",
 
   "SHADOWTRACE_FLIGHT_POWER.title": "Shadowtrace Flight",
   "SHADOWTRACE_FLIGHT_POWER.description": "Whenever you gain [gold]Ether Veil[/gold], gain [gold]Qingming Sword Force[/gold].",
@@ -80,8 +80,8 @@
 
 
   "VOID_HUNTER_QINGMING_ARBITER_POWER2.title": "Qingming Arbiter",
-  "VOID_HUNTER_QINGMING_ARBITER_POWER2.description": "At the start of your turn, apply [gold]Block[/gold] for ALL [red]enemies[/red].",
-  "VOID_HUNTER_QINGMING_ARBITER_POWER2.smartDescription": "At the start of your turn, apply [red]{Amount}[/red] [gold]Block[/gold] for ALL [red]enemies[/red].",
+  "VOID_HUNTER_QINGMING_ARBITER_POWER2.description": "At the start of your turn, apply [gold]Block[/gold] to ALL [red]enemies[/red].",
+  "VOID_HUNTER_QINGMING_ARBITER_POWER2.smartDescription": "At the start of your turn, apply [red]{Amount}[/red] [gold]Block[/gold] to ALL [red]enemies[/red].",
 
   "WHEN_I_RETURN_POWER.title": "When I Return",
   "WHEN_I_RETURN_POWER.description": "Damage taken from [gold]Frail[/gold] enemies is reduced this turn.",
@@ -97,11 +97,11 @@
   "WHEN_MEMORIES_DRIFT_BY_POWER.smartDescription": "Whenever you consume 1 [gold]Qingming Sword Force[/gold], gain {Amount} block.",
 
   "WHEN_OLD_DREAMS_RESURFACE_POWER.title": "When Old Dreams Resurface",
-  "WHEN_OLD_DREAMS_RESURFACE_POWER.description": "Whenever you first [gold]Exhaust[/gold] a card each turn, add a copy to your [gold]Discard Pile[/gold].",
-  "WHEN_OLD_DREAMS_RESURFACE_POWER.smartDescription": "Whenever you first [gold]Exhaust[/gold] a card each turn, add a copy to your [gold]Discard Pile[/gold].",
+  "WHEN_OLD_DREAMS_RESURFACE_POWER.description": "Whenever you [gold]Exhaust[/gold] a card for the first time each turn, add a copy into your [gold]Discard Pile[/gold].",
+  "WHEN_OLD_DREAMS_RESURFACE_POWER.smartDescription": "Whenever you [gold]Exhaust[/gold] a card for the first time each turn, add a copy into your [gold]Discard Pile[/gold].",
 
   "WHITE_HAIR_FORM_POWER.title": "White Hair Form",
-  "WHITE_HAIR_FORM_POWER.description": "[gold]Enlightened Mind[/gold] no longer be [gold]Removed[/gold] when Energy is 0.",
-  "WHITE_HAIR_FORM_POWER.smartDescription": "[gold]Enlightened Mind[/gold] no longer be [gold]Removed[/gold] when Energy is 0."
+  "WHITE_HAIR_FORM_POWER.description": "[gold]Enlightened Mind[/gold] is no longer [gold]Removed[/gold] when Energy is 0.",
+  "WHITE_HAIR_FORM_POWER.smartDescription": "[gold]Enlightened Mind[/gold] is no longer [gold]Removed[/gold] when Energy is 0."
 
 }
