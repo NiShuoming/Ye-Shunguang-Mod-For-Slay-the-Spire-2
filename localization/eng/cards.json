@@ -206,14 +206,14 @@
   "YESHUNGUANG-WHEN_MEMORIES_DRIFT_BY.description": "Whenever you consume {Energy:diff()} [gold]Qingming Sword Force[/gold], gain {Count:diff()} [gold]Block[/gold].",
 
   "YESHUNGUANG-WHEN_OLD_DREAMS_RESURFACE.title": "When Old Dreams Resurface",
-  "YESHUNGUANG-WHEN_OLD_DREAMS_RESURFACE.description": "Whenever you first [gold]Exhaust[/gold] a card each turn, add a copy to your [gold]Discard Pile[/gold].",
+  "YESHUNGUANG-WHEN_OLD_DREAMS_RESURFACE.description": "Whenever you [gold]Exhaust[/gold] a card for the first time each turn, add a copy into your [gold]Discard Pile[/gold].",
 
   "YESHUNGUANG-WISE.title": "Wise",
   "YESHUNGUANG-WISE.description": "[gold]Partner[/gold].\nChoose {Cards:diff()} [gold]Partner[/gold] or [gold]Memory[/gold] cards from your [gold]Exhaust Pile[/gold] into your [gold]Hand[/gold].",
   "YESHUNGUANG-WISE.selectionScreenPrompt": "Choose {Cards:diff()} card into your [gold]Hand[/gold].",
 
   "YESHUNGUANG-WHITE_HAIR_FORM.title": "White Hair Form",
-  "YESHUNGUANG-WHITE_HAIR_FORM.description": "Gain {EnlightenedMind:diff()} [pink]Enlightened Mind[/pink]。\n[gold]Enlightened Mind[/gold] no longer be [gold]Removed[/gold] when Energy is 0.",
+  "YESHUNGUANG-WHITE_HAIR_FORM.description": "Gain {EnlightenedMind:diff()} [pink]Enlightened Mind[/pink]。\n[gold]Enlightened Mind[/gold] is no longer [gold]Removed[/gold] when Energy is 0.",
 
   "YESHUNGUANG-YE_SHIYUAN.title": "Ye Shiyuan",
   "YESHUNGUANG-YE_SHIYUAN.description": "[gold]Partner[/gold].\nReduce all your debuffs by {Count:diff()}.",
