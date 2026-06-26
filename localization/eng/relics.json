@@ -12,11 +12,11 @@
   "YESHUNGUANG-DREAMBOUND_SELF.flavor": "Countless times, in the dead of night, she finds herself returning to that day...",
 
   "YESHUNGUANG-LANTERN_WISH.title": "Lantern Wish",
-  "YESHUNGUANG-LANTERN_WISH.description": "Whenever the [gold]Enlightened Mind[/gold] was removed, play a random card in [gold]Hand[/gold].",
+  "YESHUNGUANG-LANTERN_WISH.description": "Whenever the [gold]Enlightened Mind[/gold] is removed, play a random card in [gold]Hand[/gold].",
   "YESHUNGUANG-LANTERN_WISH.flavor": "\"I want to be one light among countless firefiles.\"\n\"The sun will rise. No matter how long the night lasts, dawn always comes.\"",
 
   "YESHUNGUANG-SWORDSWOMAN.title": "Swordswoman",
-  "YESHUNGUANG-SWORDSWOMAN.description": "At the start of the combate, put a [gold]Soaring Light[/gold] into your [gold]Hand[/gold]",
+  "YESHUNGUANG-SWORDSWOMAN.description": "At the start of the combate, add a [gold]Soaring Light[/gold] into your [gold]Hand[/gold]",
   "YESHUNGUANG-SWORDSWOMAN.flavor": "\"What is someone who wides a blade?\"\n\"Nothing more than...the courage to press forward without hesitation, and the resolve to cut through anything.\"",
 
   "YESHUNGUANG-TOGETHER_INTO_THE_DUST.title": "Together Into The Dust",
@@ -28,7 +28,7 @@
   "YESHUNGUANG-GUIDING_GLIMMER.flavor": "\"My brother, Shifu, everyone at Suibian Temple... and you.\"\n\"I know you'll all keep waiting for me.\"",
 
   "YESHUNGUANG-LIGHT_SHADOW.title": "Light & Shadow",
-  "YESHUNGUANG-LIGHT_SHADOW.description": "Increase [gold]Qingming Sword Force[/gold] cap by [blue]{Max}[/blue].",
+  "YESHUNGUANG-LIGHT_SHADOW.description": "Increase the cap of [gold]Qingming Sword Force[/gold] by [blue]{Max}[/blue].",
   "YESHUNGUANG-LIGHT_SHADOW.flavor": "In endless solitude and ever-present fear, [gold]another self[/gold] quietly came into being.",
 
   "YESHUNGUANG-CLANG_OF_JADE.title": "Clang Of Jade",
